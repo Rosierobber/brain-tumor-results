@@ -1,0 +1,7 @@
+,seed,seed,params,params,val_acc,val_acc,test_acc,test_acc,macro_f1,macro_f1,tumor_as_notumor,tumor_as_notumor,ms_per_image,ms_per_image,epochs_run,epochs_run
+,mean,std,mean,std,mean,std,mean,std,mean,std,mean,std,mean,std,mean,std
+variant,,,,,,,,,,,,,,,,
+A_baseline,1.0,,51456516.0,,0.766,,0.7635,,0.7344,,104.0,,4.8955,,13.0,
+B_deeper_BN,1.0,,7598308.0,,0.6713,,0.672,,0.6159,,79.0,,4.3851,,30.0,
+C_deeper_BN_GAP,1.0,,1208548.0,,0.8186,,0.8215,,0.8053,,96.0,,4.2401,,26.0,
+D_proposed_GAP_SE,1.0,,1230848.0,,0.8046,,0.8337,,0.8201,,88.0,,79.5356,,13.0,
