@@ -1,0 +1,6 @@
+model,Glioma,Meningioma,Pituitary,No Tumor
+AlexNet,0.997,0.992,0.999,0.997
+ResNet50,0.99,0.976,0.998,0.998
+VGG16,0.982,0.96,0.997,0.998
+EffNetV2B0,0.981,0.955,0.996,0.997
+ConvNeXtTiny,0.983,0.953,0.996,0.995
