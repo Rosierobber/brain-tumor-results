@@ -1,0 +1,5 @@
+class,training_directory,testing_directory,total
+Glioma,1321,300,1621
+Meningioma,1339,306,1645
+Pituitary,1457,300,1757
+No Tumor,1595,405,2000
