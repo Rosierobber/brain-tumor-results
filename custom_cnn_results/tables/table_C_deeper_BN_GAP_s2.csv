@@ -1,0 +1,7 @@
+,Precision,Recall,F1-Score,Support
+Glioma,0.94,0.86,0.9,300.0
+Meningioma,0.82,0.59,0.69,306.0
+Pituitary,0.87,1.0,0.93,300.0
+No Tumor,0.84,0.98,0.9,405.0
+Macro-Average,0.87,0.86,0.86,1311.0
+Weighted Average,0.87,0.87,0.86,1311.0
