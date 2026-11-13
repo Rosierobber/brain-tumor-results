@@ -1,0 +1,2 @@
+variant,seed,params,trainable,val_acc,test_acc,macro_f1,tumor_as_notumor,ms_per_image,epochs_run
+EffNetV2B0,1,6577236,657924,0.7326906323432922,0.8016781083142639,0.7844930228569055,40,9.482898755804625,1
