@@ -1,0 +1,10 @@
+Model,Mean accuracy (%),Figure
+AlexNet,93.44,Mean_Normalized_CM_AlexNet.png
+ResNet50,92.04,Mean_Normalized_CM_ResNet50.png
+VGG16,90.21,Mean_Normalized_CM_VGG16.png
+EffNetV2B0,88.33,Mean_Normalized_CM_EffNetV2B0.png
+ConvNeXtTiny,88.43,Mean_Normalized_CM_ConvNeXtTiny.png
+D_proposed_GAP_SE,87.31,Mean_Normalized_CM_D_proposed_GAP_SE.png
+C_deeper_BN_GAP,85.66,Mean_Normalized_CM_C_deeper_BN_GAP.png
+B_deeper_BN,83.24,Mean_Normalized_CM_B_deeper_BN.png
+A_baseline,75.9,Mean_Normalized_CM_A_baseline.png
